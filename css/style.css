@@ -78,6 +78,29 @@ body{
     }
 }
 
+ul{
+    
+    list-style: none;
+    padding: 50px;
+}
+
+ul li{
+    background-color: red;
+    padding: 10px;
+   border-radius: 20px;
+   float: center;
+   margin: 5px;
+   position: relative;
+   bottom: 20px;
+   font-weight: 600;
+   color: white;
+   cursor: pointer;
+
+}
+
+ul li:hover{
+    background-color: blue;
+}
 
 
 
